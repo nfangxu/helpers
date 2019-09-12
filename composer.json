@@ -3,6 +3,10 @@
     "description": "some functions",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "helpers",
+        "php"
+    ],
     "authors": [
         {
             "name": "nfangxu",
