@@ -1,5 +1,5 @@
 {
-    "name": "nfangxu/fx-helpers",
+    "name": "fx/helpers",
     "description": "some functions",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "files" : [
-            "./src/helpers.php"
+            "src/helpers.php"
         ]
     },
     "require": {}

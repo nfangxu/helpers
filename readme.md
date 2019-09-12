@@ -6,4 +6,4 @@
 
 ### Installation
 
-- `composer require nfangxu/fx-helpers`
+- `composer require fx/helpers`
