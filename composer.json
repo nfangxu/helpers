@@ -1,0 +1,16 @@
+{
+    "name": "nfangxu/fx-helpers",
+    "description": "some functions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nfangxu",
+            "email": "nfangxu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files" : "./src/helpers.php"
+    },
+    "require": {}
+}
